@@ -1,0 +1,561 @@
+{
+    "UK": [
+      {
+        "university": "BPP University",
+        "country": "UK",
+        "location": "London, Manchester, Birmingham, Leeds, Bristol",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQ6iA4kPdJwwYKdyu_68LjwSTeeJjFnwKaQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of the West of Scotland (UWS)",
+        "country": "UK",
+        "location": "Paisley, London, Ayr, Dumfries",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://www.scotland.org/images/uploads/general/UniWestScotland.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Birmingham City University (BCU)",
+        "country": "UK",
+        "location": "Birmingham",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://logowik.com/content/uploads/images/bcu-birmingham-city-university5078.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Bangor University",
+        "country": "UK",
+        "location": "Bangor, Wales",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-kszAR9o6FYgICOXkuj9L6vcuJnvvC_QZg&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of South Wales (USW)",
+        "country": "UK",
+        "location": "Cardiff, Newport, Pontypridd",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYuB9gek_PNZmYHxIF7f_wN7aRoWVB4dKyg&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Heriot-Watt University",
+        "country": "UK",
+        "location": "Edinburgh",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQsHFX__zQSFcb7SD1YQ_Zj-R-t_HafhFcA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Stirling",
+        "country": "UK",
+        "location": "Stirling, Scotland",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoGqoaHVs4OXY_dO4o8Mh70xu4MvvqKfnRw&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Gloucestershire (UOG)",
+        "country": "UK",
+        "location": "Cheltenham, Gloucester",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReT1EBurCKN_qe9He0dIkWW2WC7GvOzaYvfA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Roehampton",
+        "country": "UK",
+        "location": "London",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyP3wbUlAnAAdUvLCyrNt8F4DI57K3zU3h5A&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "De Montfort University (DMU)",
+        "country": "UK",
+        "location": "Leicester",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_GxKExJ5Ii3dXCiIATWLDGlzlh5TEb0BIQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Chester",
+        "country": "UK",
+        "location": "Chester",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://www.publicengagement.ac.uk/sites/default/files/styles/general_/public/2023-10/university_of_chester_0.jpg?itok=MVdTVjpp",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Bloomsbury Institute London",
+        "country": "UK",
+        "location": "London",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3PK8rXDa6nrSAtDVrjpQhJLRUn_7sMfnnA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Lincoln",
+        "country": "UK",
+        "location": "Lincoln",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBxHxxUo6eZhv-lWY2iFhrrXkH6jhsfBw0Q&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "London South Bank University (LSBU)",
+        "country": "UK",
+        "location": "London",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuygFocVw0s35He6sAmuaUqDpZ9YIWZ9dtA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Liverpool John Moores University (LJMU)",
+        "country": "UK",
+        "location": "Liverpool",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://www.ljmu.ac.uk/-/media/ljmu/logos/ljmulogotransparent2.gif?la=en&h=550&w=1549&hash=395EA1E00B1C6C7282F5573B4571BE25",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Bedfordshire",
+        "country": "UK",
+        "location": "Luton, Bedford",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/univeristy_of_bedfordshire.png?itok=wA8AAvDK",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Huddersfield",
+        "country": "UK",
+        "location": "Huddersfield",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://i2-prod.examinerlive.co.uk/incoming/article6300381.ece/ALTERNATES/s1200d/unilogo.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Canterbury Christ Church University (CCCU)",
+        "country": "UK",
+        "location": "Canterbury, Medway",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW_RsZymqMjT8p8RNSatEEMAxRkk29nWNOUQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University for the Creative Arts (UCA)",
+        "country": "UK",
+        "location": "Farnham, Epsom, Canterbury, Rochester",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://www.thinkpostgrad.com/wp-content/uploads/sites/2/2023/03/New-UCA-Logo-512-x-512.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "The University of Law (ULaw)",
+        "country": "UK",
+        "location": "London, Birmingham, Manchester, Leeds, Bristol",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcmaX5CvqlUGOm0U9BKO5nZmFMDoR_E4aIQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Northumbria University",
+        "country": "UK",
+        "location": "Newcastle upon Tyne, London",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://seeklogo.com/images/N/northumbria-university-logo-842949DBAA-seeklogo.com.png",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Ulster University (via QA Higher Education)",
+        "country": "UK",
+        "location": "London, Birmingham, Manchester",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://keystoneacademic-res.cloudinary.com/image/upload/f_auto/q_auto/g_auto/w_250/dpr_2.0/element/13/139387_UU_LONDON_BHAM_CORE_BLUE_JPEG-HR.jpg",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Canada": [
+      {
+        "university": "University of Calgary",
+        "country": "Canada",
+        "location": "Calgary, Alberta",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmMJgRmNnXF0ttsicIQxfSbU58uYWzKC-jQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University Canada West (UCW)",
+        "country": "Canada",
+        "location": "Vancouver, British Columbia",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/UCW_LOGO.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Trent University",
+        "country": "Canada",
+        "location": "Peterborough & Durham, Ontario",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4YrB-jXSN5XxaZ7O9Lrdi1N6KMCPbKqXKQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Brock University",
+        "country": "Canada",
+        "location": "St. Catharines, Ontario",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://images-intl.prod.aws.idp-connect.com/commimg/video/CH/myhc_335262.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Sheridan College",
+        "country": "Canada",
+        "location": "Oakville, Brampton, Mississauga (Ontario)",
+        "degreeLevel": [
+          "Bachelor's, Master's (Limited Master's via collaborations)"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "data:image/png;base64,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",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Niagara College Canada",
+        "country": "Canada",
+        "location": "Welland & Niagara-on-the-Lake, Ontario",
+        "degreeLevel": [
+          "Bachelor's, Master's (applied degrees, limited Master's pathways)"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdp4O1bmNXTYd7PUv6BCdLbLpVQupqiR87YA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "St. Francis Xavier University",
+        "country": "Canada",
+        "location": "Antigonish, Nova Scotia",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFl1dRKlf5CYsVfrQXtAm_b-JSDoMFusFg6A&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Kwantlen Polytechnic University (KPU)",
+        "country": "Canada",
+        "location": "Surrey, Richmond, Langley, Cloverdale (British Columbia)",
+        "degreeLevel": [
+          "Bachelor's, Master's (select professional programs)"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/394e785caf4725f7eb7ac93b3836355e",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Niagara Falls Canada (UNFC)",
+        "country": "Canada",
+        "location": "Niagara Falls, Ontario",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwxm168pQReECednM5piwkai8qFN2tITb9Q&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Cyprus": [
+      {
+        "university": "American College",
+        "country": "Cyprus",
+        "location": "Nicosia",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgbxpkMUex5vM37DZtdGjJ-oibtEZC8mSoQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Nicosia",
+        "country": "Cyprus",
+        "location": "Nicosia",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/University_of_Nicosia_Logo.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "InterNapa College",
+        "country": "Cyprus",
+        "location": "Sotira (near Ayia Napa)",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://internapa.ac.cy/wp-content/uploads/2019/03/Favicon.png",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Germany": [
+      {
+        "university": "Munich Business School",
+        "country": "Germany",
+        "location": "Munich",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEb0CnqxjGVhO019mBTyUtXFyOivFnCI4CDQ&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "University of Europe for Applied Sciences",
+        "country": "Germany",
+        "location": "Berlin, Hamburg, Iserlohn, Potsdam",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/University_of_Europe_for_Applied_Sciences_logo.png",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Arden University",
+        "country": "Germany",
+        "location": "Berlin",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Arden_University_logo.svg/1200px-Arden_University_logo.svg.png",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "GISMA University of Applied Sciences",
+        "country": "Germany",
+        "location": "Potsdam, Berlin",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://bwbsedu.com/wp-content/uploads/2024/04/Untitled-6.jpg",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Berlin School of Business and Innovation (BSBI)",
+        "country": "Germany",
+        "location": "Berlin, Hamburg",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://student-cms.prd.timeshighereducation.com/sites/default/files/inline-images/BSBI%20NEW%20LOGO.png",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Hungary": [
+      {
+        "university": "Budapest Metropolitan University",
+        "country": "Hungary",
+        "location": "Budapest",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkz2-Yq_q4X6io0hkiG4UmoWMnWZajW3eNiA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Budapest Business University",
+        "country": "Hungary",
+        "location": "Budapest",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://budapestcollege.hu/wp-content/uploads/2025/02/BUEB-logo-150x150.png",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "International Business School (IBS)",
+        "country": "Hungary",
+        "location": "Budapest",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://svcs-image.dreamapply.com/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJkcmVhbS1hcHBseSIsImF1ZCI6ImRyZWFtLWltYWdlIiwicGxkIjp7InBhdGgiOiJkcmVhbS1hcHBseTpzaGFyZDg0Ni9pbnN0YW5jZV9sb2dvcy8xLnAwamRqNCIsInRyYW5zZm9ybWF0aW9ucyI6W3sibmFtZSI6ImZpdCIsInBhcmFtcyI6eyJ3aWR0aCI6IjQyMCIsImhlaWdodCI6IjIwMCIsInF1YWxpdHkiOiI5NSIsImV4dGVuZCI6IjI1NSwyNTUsMjU1In19XSwiY2FjaGUiOiJtYXgtYWdlPTMxNTM2MDAwLCBwdWJsaWMiLCJvdXRwdXRfZm9ybWF0Ijoic2FtZSIsImF0dGFjaCI6bnVsbCwic2RrX3ZlcnNpb24iOiIxLjAifX0.KvX-VBJnq2gYHEVHO9dXthPUhVG5k0mDVc2GZokBGXksYcfERRF7k1taOLZDRNiAIcQUVBVPbrbDXTiz0ZMVkLC2cxpaowL2rT86urzWjnsEyhxwzeZQmJlMUf2c6z_DB663HS6BqjwthNpLsQ-C1eyInXQXudv4NLc6GObSod7RvuvEJ_Of2YaOV8M8neOP6AHcEqrbamZ6x6K4jrSfHd6WtVorMyg6PkYlvqNduBxB1eROjH_FZ8pbq7GIt_72ianQGqBTwj9xBEv-GzvXAb_A091vQASsy1jxugdzFdS5ueacP6pnPVlFNbpW5q6o_B-v-KdcVIx2-4mVmPyseA",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "Wekerle Business School",
+        "country": "Hungary",
+        "location": "Budapest",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqoFaaxF938ZRYI3WAsb1lQX4uK8p6OsE_A&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Multiple Countries": [
+      {
+        "university": "EIT InnoEnergy Master’s School",
+        "country": "Multiple Countries",
+        "location": "Various EU Cities (mainly Sweden, Spain, France)",
+        "degreeLevel": [
+          "Master's Only"
+        ],
+        "deadline": "2025-05-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7megQA3famtgtS1BLklcJesqK6vhN-ikNnA&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Malta": [
+      {
+        "university": "EEC – ITIS Malta Tourism and Language Institute",
+        "country": "Malta",
+        "location": "San Gwann",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclTZ23ipVH4a8O3u3701MjHDlqpHS5QgLRA&s",
+        "scholarshipType": "Partial Funded"
+      },
+      {
+        "university": "GBS Malta",
+        "country": "Malta",
+        "location": "St. Julian's",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-07-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnq7RID487dPL4q3wexYCP-4XW7Arwo-u_vw&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "France": [
+      {
+        "university": "EMA",
+        "country": "France",
+        "location": "Paris",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOlJlB5ZR23RP8CwUMkdIet62pW4HEw6pM5g&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Germany, Spain, France": [
+      {
+        "university": "Schiller International University",
+        "country": "Germany, Spain, France",
+        "location": "Heidelberg, Madrid, Paris",
+        "degreeLevel": [
+          "Bachelor's, Master's"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6rIq18CLlu6mic-HJy9_TH50iZRfRrYVcA&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ],
+    "Ireland": [
+      {
+        "university": "Dublin International Study Centre",
+        "country": "Ireland",
+        "location": "Dublin",
+        "degreeLevel": [
+          "Bachelor's (Foundation), Master's (Pathway)"
+        ],
+        "deadline": "2025-06-01 00:00:00",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuz4Sn74hNIA0uBEJUFhibLXhOzR879jr8w&s",
+        "scholarshipType": "Partial Funded"
+      }
+    ]
+  }

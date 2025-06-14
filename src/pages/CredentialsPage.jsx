@@ -5,7 +5,7 @@ import { FaUser, FaLock, FaCheckCircle, FaArrowRight, FaUsersCog, FaTimes } from
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import logo from "../pages/images/DreamStudyLOGO.png";
-import { Eye, EyeOff } from "lucide-react";
+//import { Eye, EyeOff } from "lucide-react";
 
 
 const CredentialsPage = () => {

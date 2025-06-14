@@ -1,7 +1,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Send, Bot, User, Loader2 } from "lucide-react";
+//import { Send, Bot, User, Loader2 } from "lucide-react";
 import Navbar from "./Navbar";
 import axios from "axios";
 import { FaRobot } from "react-icons/fa";

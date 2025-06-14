@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { MessageSquare, Send, Smile, User, Loader2 } from 'lucide-react';
+//import { MessageSquare, Send, Smile, User, Loader2 } from 'lucide-react';
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 

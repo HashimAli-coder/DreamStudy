@@ -6,6 +6,7 @@ import partialFundedData from '../partialfunded.json';
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import 'flag-icons/css/flag-icons.min.css';
+
 import { Link } from 'react-router-dom';
 
 const ApplicationPage = () => {
